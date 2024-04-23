@@ -3,11 +3,11 @@
 
 Bem-vindo ao projeto Tabela de Cores! Este projeto de código aberto tem como objetivo ajudar a comunidade de design a reduzir o tempo gasto procurando por paletas de cores, fornecendo uma coleção abrangente de paletas de cores.
 
-## ℹ️ Sobre
+ℹ️ Sobre
 
 A cor desempenha um papel crucial no design, e encontrar a paleta de cores certa muitas vezes pode ser uma tarefa demorada. Este projeto visa simplificar esse processo, oferecendo uma variedade de paletas de cores adequadas para diversos projetos de design.
 
-## ✨ Recursos
+✨ Recursos
 
 -   Uma coleção cuidadosamente selecionada de paletas de cores para diferentes temas de design.
 -   Cada entrada de paleta de cores inclui um nome e um conjunto de cores escolhidas cuidadosamente para se complementarem.
@@ -24,3 +24,7 @@ A cor desempenha um papel crucial no design, e encontrar a paleta de cores certa
 
 Aceitamos contribuições da comunidade! Se quiser adicionar uma melhoria ao design ou adionar funcionalidades, estamos abertos a modificações.
 ```
+
+## 🔗 Link do Projeto
+
+[Link do Projeto](https://public-color-palette.vercel.app/)
